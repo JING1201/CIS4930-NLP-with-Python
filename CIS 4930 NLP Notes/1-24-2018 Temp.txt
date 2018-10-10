@@ -1,0 +1,22 @@
+Synonyms
+
+Antonyms
+
+synset (synonym set): collection of synonyms
+
+lemmas: pairing a synset with a word
+
+root synset or hypernym: parent in hierarchy
+
+hyponyms: more specific or sub structure in hierarchy
+
+	motor vehicle
+	is parent to
+	motor car / truck / go kart
+
+meronyms: components that make up an item that represents the item; 
+		items are identified by their components, components are the meronyms
+
+holonyms: are the containing items of the object
+
+entailments: composing parts of an activity

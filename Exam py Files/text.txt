@@ -1,0 +1,2 @@
+The Brown Corpus is a convenient resource for studying systematic differences between genres, a kind of linguistic inquiry known as stylistics. Let's compare genres in their usage of modal verbs. The first step is to produce the counts for a particular genre.
+Next, we need to obtain counts for each genre of interest. We'll use NLTK's support for conditional frequency distributions. These are presented systematically in 2, where we also unpick the following code line by line. For the moment, you can ignore the details and just concentrate on the output.

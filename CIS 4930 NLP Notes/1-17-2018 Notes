@@ -1,0 +1,23 @@
+Bigrams
+	Pair of words (2)
+Collocations
+    text.collocations()
+	Characteristic co-occurrence patterns of two (or more) lexical items
+	Often forms its own meaning; meaning tends to be more than the sum of its parts
+	http://cl.indiana.edu/~md7/15/615/slides/08-collocations/08a-collocations.pdf 
+Concordance
+    text.concordance(word)
+    shows surrounding text environment
+Frequency distribution
+	text.vocab() 
+		Returns a FreqDist of keys with their frequencies
+	FreqDist
+		Works with words on a list of words
+		Works with letters on a body of text
+		Can be used to investigate bigrams through frequencies
+		dist.max() returns the key that has the highest frequencies
+
+Machine Learning
+Extract features from data (ex. high and low intensity in signals)
+Draw inference from the features (ex. reflection?)
+Derive conclusion - > classification (ex. Pronoun vs proper noun)

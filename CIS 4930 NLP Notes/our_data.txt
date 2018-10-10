@@ -1,0 +1,4 @@
+data without new lineneed a \ and n 
+ for a new lineneed a \ and n 
+ for a new line 5 1 5 3 4 8 3 5 2 3
+1
